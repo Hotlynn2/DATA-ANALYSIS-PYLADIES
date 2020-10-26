@@ -32,9 +32,9 @@ Columns mean as follows:
 (iii) NAICS: Industry name and associated NAICS code in the bracket
 (iv) _EMPLOYMENT_: Employment
 	c. LMO Detailed Industries by NAICS: An excel file for mapping the RTRA data to the
-desired data. The first column of this file has a list of 8 industries that are frequently used.
+desired data. The first column of this file has a list of 7 industries that are frequently used.
 The second column has their NAICS definitions. Using these NAICS definitions and RTRA
-data, you would create a monthly employment data series from 1997 to 2018 for these 8
+data, you would create a monthly employment data series from 1997 to 2018 for these 7
 industries.
 	d. Data Output Template: An excel file with an empty column for employment. You should
 fill the empty column with the data you prepared from your analysis.
