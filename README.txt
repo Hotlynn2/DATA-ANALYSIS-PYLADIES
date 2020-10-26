@@ -32,9 +32,9 @@ Columns mean as follows:
 (iii) NAICS: Industry name and associated NAICS code in the bracket
 (iv) _EMPLOYMENT_: Employment
 	c. LMO Detailed Industries by NAICS: An excel file for mapping the RTRA data to the
-desired data. The first column of this file has a list of 59 industries that are frequently used.
+desired data. The first column of this file has a list of 8 industries that are frequently used.
 The second column has their NAICS definitions. Using these NAICS definitions and RTRA
-data, you would create a monthly employment data series from 1997 to 2018 for these 59
+data, you would create a monthly employment data series from 1997 to 2018 for these 8
 industries.
 	d. Data Output Template: An excel file with an empty column for employment. You should
 fill the empty column with the data you prepared from your analysis.
@@ -54,14 +54,9 @@ Survey (LFS) by Statistics Canada.
 3. Highlight at least 5 important questions that you would like to answer in order to provide
 valuable information to your company so that they can take good business decisions. Your
 questions should include these:
-i) How employment in Construction evolved overtime?
-ii) How employment in Construction evolved over time, compared to the total
-employment across all industries? and at least 3 more questions.
+i) How employment in Construction evolved over time, compared to the total
+employment across all industries? and at least 4 more questions.
 
-4. Carry out a detailed time series and any other data analysis to answer your questions above.
-Your analysis should be done in Jupiter notebook with sections, headings and comments that
-aid readability.
-S
-5. Use visualizations to illustrate each answer. Visualizations could be a graph, a combination of
+4. Use visualizations to illustrate each answer. Visualizations could be a graph, a combination of
 graphs or a dashboard. Add any necessary details to them, as if these visualizations would be
 published or presented to external stakeholders.
