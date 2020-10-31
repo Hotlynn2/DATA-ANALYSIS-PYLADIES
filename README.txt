@@ -11,9 +11,8 @@ analysis of the three economies.
 For this task, consider yourself a newly employed Data Analyst. The head of your department at
 your company has given you the following instructions:
 
-1. Download zipped files A_NEWLY_HIRED_DATA_ANALYST.zip
 
-2. Prepare a data set using the following files:
+1. Prepare a data set using the following files:
 
 	a. NAICS 2017 – Statistics Canada: Description of the North American Industry
 Classification System (NAICS). All you would need to understand for this task is, how the
@@ -51,12 +50,12 @@ should be done using python codes.
 (iv) The source for the data is: Real Time Remote Access (RTRA) data from the Labour Force
 Survey (LFS) by Statistics Canada.
 
-3. Highlight at least 5 important questions that you would like to answer in order to provide
+2. Highlight at least 5 important questions that you would like to answer in order to provide
 valuable information to your company so that they can take good business decisions. Your
 questions should include these:
 i) How employment in Construction evolved over time, compared to the total
 employment across all industries? and at least 4 more questions.
 
-4. Use visualizations to illustrate each answer. Visualizations could be a graph, a combination of
+3. Use visualizations to illustrate each answer. Visualizations could be a graph, a combination of
 graphs or a dashboard. Add any necessary details to them, as if these visualizations would be
 published or presented to external stakeholders.
