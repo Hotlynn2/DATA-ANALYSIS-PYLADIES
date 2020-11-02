@@ -56,6 +56,4 @@ questions should include these:
 i) How employment in Construction evolved over time, compared to the total
 employment across all industries? and at least 4 more questions.
 
-3. Use visualizations to illustrate each answer. Visualizations could be a graph, a combination of
-graphs or a dashboard. Add any necessary details to them, as if these visualizations would be
-published or presented to external stakeholders.
+3. Use visualizations to illustrate how data driven decisions can be made for unseen data such as 2022 or 2023 data.
